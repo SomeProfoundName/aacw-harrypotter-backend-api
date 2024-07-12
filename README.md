@@ -1,4 +1,4 @@
-<img src="./hp-backend" alt="harry potter api back end">
+<img src="./hp-backend.png" alt="harry potter api back end">
 
 ## Overview
 
@@ -30,7 +30,7 @@ This project uses Node.js
 
 ### Socials 
 
-<img align="left" src="./assests/ME-pf.gif" width="200">
+<img align="left" src="./ME-pf.gif" width="200">
 
 - [LinkedIn](https://www.linkedin.com/in/collinscomondi/) <br>
 - [Instagram](https://www.instagram.com/someprofoundname/) <br>
