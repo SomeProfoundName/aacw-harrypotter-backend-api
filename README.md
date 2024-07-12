@@ -28,6 +28,8 @@ This project uses Node.js
   * PORT = 3000
 5. To run the API, use `npm run dev` in the project directory.
 
+Patches can be made using API testing programes such as Postman
+
 ### Socials 
 
 <img align="left" src="./ME-pf.gif" width="200">
