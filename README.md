@@ -22,6 +22,7 @@ This project uses Node.js
 2. Use `npm init -y` in the terminal project directory.
 3. Install the dependencies:
   * `npm install express`
+  * `npm install dotenv`
   * `npm install cors`
   * `npm install nodemon`
 4. Set up the .env
