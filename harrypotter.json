@@ -6,8 +6,8 @@
     "The Boy Who Lived",
     "The Chosen One"
     ],
-    "species": "human",
-    "gender": "male",
+    "species": "Human",
+    "gender": "Male",
     "house": "Gryffindor",
     "dateOfBirth": "31-07-1980",
     "yearOfBirth": 1980,
@@ -26,14 +26,15 @@
     "actor": "Daniel Radcliffe",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://ik.imagekit.io/hpapi/harry.jpg"
+    "image": "https://ik.imagekit.io/hpapi/harry.jpg",
+    "wiki":"https://harrypotter.fandom.com/wiki/Harry_Potter"
     },
     {
     "id": 2,
     "name": "Hermione Granger",
     "alternate_names": [],
-    "species": "human",
-    "gender": "female",
+    "species": "Human",
+    "gender": "Female",
     "house": "Gryffindor",
     "dateOfBirth": "19-09-1979",
     "yearOfBirth": 1979,
@@ -52,7 +53,8 @@
     "actor": "Emma Watson",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://ik.imagekit.io/hpapi/hermione.jpeg"
+    "image": "https://ik.imagekit.io/hpapi/hermione.jpeg",
+    "wiki":"https://harrypotter.fandom.com/wiki/Hermione_Granger"
     },
     {
     "id": 3,
@@ -60,8 +62,8 @@
     "alternate_names": [
     "Dragomir Despard"
     ],
-    "species": "human",
-    "gender": "male",
+    "species": "Human",
+    "gender": "Male",
     "house": "Gryffindor",
     "dateOfBirth": "01-03-1980",
     "yearOfBirth": 1980,
@@ -80,14 +82,15 @@
     "actor": "Rupert Grint",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://ik.imagekit.io/hpapi/ron.jpg"
+    "image": "https://ik.imagekit.io/hpapi/ron.jpg",
+    "wiki":"https://harrypotter.fandom.com/wiki/Ronald_Weasley"
     },
     {
     "id": 4,
     "name": "Draco Malfoy",
     "alternate_names": [],
-    "species": "human",
-    "gender": "male",
+    "species": "Human",
+    "gender": "Male",
     "house": "Slytherin",
     "dateOfBirth": "05-06-1980",
     "yearOfBirth": 1980,
@@ -106,14 +109,15 @@
     "actor": "Tom Felton",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://ik.imagekit.io/hpapi/draco.jpg"
+    "image": "https://ik.imagekit.io/hpapi/draco.jpg",
+    "wiki":"https://harrypotter.fandom.com/wiki/Draco_Malfoy"
     },
     {
     "id": 5,
     "name": "Cedric Diggory",
     "alternate_names": [],
-    "species": "human",
-    "gender": "male",
+    "species": "Human",
+    "gender": "Male",
     "house": "Hufflepuff",
     "dateOfBirth": null,
     "yearOfBirth": 1977,
@@ -132,14 +136,15 @@
     "actor": "Robert Pattinson",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://ik.imagekit.io/hpapi/cedric.png"
+    "image": "https://ik.imagekit.io/hpapi/cedric.png",
+    "wiki":"https://harrypotter.fandom.com/wiki/Cedric_Diggory"
     },
     {
     "id": 6,
     "name": "Cho Chang",
     "alternate_names": [],
-    "species": "human",
-    "gender": "female",
+    "species": "Human",
+    "gender": "Female",
     "house": "Ravenclaw",
     "dateOfBirth": "07-04-1979",
     "yearOfBirth": 1979,
@@ -158,7 +163,9 @@
     "actor": "Katie Leung",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://ik.imagekit.io/hpapi/cho.jpg"
+    "image": "https://ik.imagekit.io/hpapi/cho.jpg",
+    "wiki":"https://harrypotter.fandom.com/wiki/Cho_Chang"
+    
     },
     {
     "id": 7,
@@ -166,8 +173,8 @@
     "alternate_names": [
     "Half-Blood Prince"
     ],
-    "species": "human",
-    "gender": "male",
+    "species": "Human",
+    "gender": "Male",
     "house": "Slytherin",
     "dateOfBirth": "09-01-1960",
     "yearOfBirth": 1960,
@@ -186,14 +193,15 @@
     "actor": "Alan Rickman",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://ik.imagekit.io/hpapi/snape.jpg"
+    "image": "https://ik.imagekit.io/hpapi/snape.jpg",
+    "wiki":"https://harrypotter.fandom.com/wiki/Severus_Snape"
     },
     {
     "id": 8,
     "name": "Rubeus Hagrid",
     "alternate_names": [],
     "species": "half-giant",
-    "gender": "male",
+    "gender": "Male",
     "house": "Gryffindor",
     "dateOfBirth": "06-12-1928",
     "yearOfBirth": 1928,
@@ -212,14 +220,15 @@
     "actor": "Robbie Coltrane",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://ik.imagekit.io/hpapi/hagrid.png"
+    "image": "https://ik.imagekit.io/hpapi/hagrid.png",
+    "wiki":"https://harrypotter.fandom.com/wiki/Rubeus_Hagrid"
     },
     {
     "id": 9,
     "name": "Neville Longbottom",
     "alternate_names": [],
-    "species": "human",
-    "gender": "male",
+    "species": "Human",
+    "gender": "Male",
     "house": "Gryffindor",
     "dateOfBirth": "30-07-1980",
     "yearOfBirth": 1980,
@@ -238,14 +247,15 @@
     "actor": "Matthew Lewis",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://ik.imagekit.io/hpapi/neville.jpg"
+    "image": "https://ik.imagekit.io/hpapi/neville.jpg",
+    "wiki":"https://harrypotter.fandom.com/wiki/Neville_Longbottom"
     },
     {
     "id": 10,
     "name": "Ginny Weasley",
     "alternate_names": [],
-    "species": "human",
-    "gender": "female",
+    "species": "Human",
+    "gender": "Female",
     "house": "Gryffindor",
     "dateOfBirth": "11-08-1981",
     "yearOfBirth": 1981,
@@ -264,7 +274,8 @@
     "actor": "Bonnie Wright",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://ik.imagekit.io/hpapi/ginny.jpg"
+    "image": "https://ik.imagekit.io/hpapi/ginny.jpg",
+    "wiki":"https://harrypotter.fandom.com/wiki/Ginevra_Weasley"
     },
     {
     "id": 11,
@@ -273,8 +284,8 @@
     "Padfoot",
     "Snuffles"
     ],
-    "species": "human",
-    "gender": "male",
+    "species": "Human",
+    "gender": "Male",
     "house": "Gryffindor",
     "dateOfBirth": "03-11-1959",
     "yearOfBirth": 1959,
@@ -296,7 +307,8 @@
     "Rohan Gotobed"
     ],
     "alive": false,
-    "image": "https://ik.imagekit.io/hpapi/sirius.JPG"
+    "image": "https://ik.imagekit.io/hpapi/sirius.JPG",
+    "wiki":"https://harrypotter.fandom.com/wiki/Sirius_Black"
     },
     {
     "id": 12,
@@ -307,7 +319,7 @@
     "Remus John Lupin"
     ],
     "species": "werewolf",
-    "gender": "male",
+    "gender": "Male",
     "house": "Gryffindor",
     "dateOfBirth": "10-03-1960",
     "yearOfBirth": 1960,
@@ -326,14 +338,15 @@
     "actor": "David Thewlis",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://ik.imagekit.io/hpapi/lupin.jpg"
+    "image": "https://ik.imagekit.io/hpapi/lupin.jpg",
+    "wiki":"https://harrypotter.fandom.com/wiki/Remus_Lupin"
     },
     {
     "id": 13,
     "name": "Arthur Weasley",
     "alternate_names": [],
-    "species": "human",
-    "gender": "male",
+    "species": "Human",
+    "gender": "Male",
     "house": "Gryffindor",
     "dateOfBirth": "06-02-1950",
     "yearOfBirth": 1950,
@@ -352,7 +365,8 @@
     "actor": "Mark Williams",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://ik.imagekit.io/hpapi/arthur.jpg"
+    "image": "https://ik.imagekit.io/hpapi/arthur.jpg",
+    "wiki":"https://harrypotter.fandom.com/wiki/Arthur_Weasley"
     },
     {
         "id": 14,
@@ -360,8 +374,8 @@
         "alternate_names": [
         "Professor Dumbledore"
         ],
-        "species": "human",
-        "gender": "male",
+        "species": "Human",
+        "gender": "Male",
         "house": "Gryffindor",
         "dateOfBirth": null,
         "yearOfBirth": 1881,
@@ -382,6 +396,7 @@
         "Michael Gambon"
         ],
         "alive": false,
-        "image": "https://images6.fanpop.com/image/photos/32700000/Albus-Dumbledore-Wallpaper-hogwarts-professors-32795922-1024-768.jpg"
+        "image": "https://images6.fanpop.com/image/photos/32700000/Albus-Dumbledore-Wallpaper-hogwarts-professors-32795922-1024-768.jpg",
+        "wiki":"https://harrypotter.fandom.com/wiki/Albus_Dumbledore"
         }
 ]
